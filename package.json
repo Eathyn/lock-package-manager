@@ -1,0 +1,15 @@
+{
+  "name": "lock-pakcage-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow npm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "only-allow": "^1.1.1"
+  }
+}
